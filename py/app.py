@@ -1,4 +1,4 @@
-from pyscript import document, when, display
+from pyscript import document, display
 from pyodide.ffi.wrappers import add_event_listener
 from py.library.domdict import DOMDict
 
